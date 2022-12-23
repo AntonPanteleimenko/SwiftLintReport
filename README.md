@@ -1,0 +1,2 @@
+# SwiftLintReport
+SwiftLintReport
