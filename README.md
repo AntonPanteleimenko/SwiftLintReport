@@ -1,6 +1,6 @@
 # SwiftLint
 
-  A tool to enforce Swift style and conventions, loosely based on the now archived [GitHub Swift Style Guide](https://github.com/github/swift-style-guide). SwiftLint enforces the style guide rules that are generally accepted by the Swift community. These rules are well described in popular style guides like [Ray Wenderlich's Swift Style Guide](https://github.com/kodecocodes/swift-style-guide). You can find more information in a [presentation](https://docs.google.com/presentation/d/1fvJgOqR65sm7uJDvW5dNfY2m0qpHcjg7/edit?usp=sharing&ouid=103572584375496531035&rtpof=true&sd=true) and [video](https://web.microsoftstream.com/video/bc50d418-7651-4567-85d8-5052650b7f65).
+  A tool to enforce Swift style and conventions, loosely based on the now archived [GitHub Swift Style Guide](https://github.com/github/swift-style-guide). SwiftLint enforces the style guide rules that are generally accepted by the Swift community. These rules are well described in popular style guides like [Ray Wenderlich's Swift Style Guide](https://github.com/kodecocodes/swift-style-guide). You can find more information in a [presentation](https://docs.google.com/presentation/d/1fvJgOqR65sm7uJDvW5dNfY2m0qpHcjg7/edit?usp=sharing&ouid=103572584375496531035&rtpof=true&sd=true) and [video](https://chiswdevelopment.sharepoint.com/:v:/s/CHIdocuments/Ef8WwWCaeBBIo6R-z_-0IXIBp-0c3w3W8w9DUXRFCcKNVg?e=oaSGFh).
   
   ## Getting Started
   ### Linters
