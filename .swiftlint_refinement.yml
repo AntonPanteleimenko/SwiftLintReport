@@ -1,0 +1,9 @@
+opt_in_rules: # Some rules are only opt-in
+    - colon
+    - comma
+    - force_unwrapping
+    - implicit_getter
+    - control_statement
+
+control_statement:
+    severity: warning # explicitly
